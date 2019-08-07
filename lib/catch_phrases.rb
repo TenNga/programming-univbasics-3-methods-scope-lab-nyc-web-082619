@@ -8,6 +8,6 @@ def toadstool
   puts status
 end
 def link 
-  msg = "it's Dangerous To Go Alone! Take This."
+  msg = "It's Dangerous To Go Alone! Take This."
   puts msg
 end
