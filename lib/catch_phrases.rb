@@ -9,5 +9,5 @@ def toadstool
 end
 def link 
   msg = "it's Dangerous To Go Alone! Take This"
-  puts 
+  puts msg
 end
